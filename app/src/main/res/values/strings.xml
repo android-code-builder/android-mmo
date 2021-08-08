@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeBuilder App</string>
+    <string name="your_level">Your level</string>
+    <string name="click_to_level_up">Click to level up</string>
+</resources>
